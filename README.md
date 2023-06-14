@@ -6,15 +6,20 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 
 ```
 /**************************************************************
-* Class:  CSC-415-0# Fall 2022
-* Name:
-* Student ID:
-* GitHub ID:
-* Project: Assignment 3 – Simple Shell
+* Class:  CSC-415-0# Summer 2022
+* Name: Abbas Mahdavi   
+* Student ID: 9182***420
+* GitHub UserID: AbbasMahdavi021
+* Project: Assignment 3 – Stucture in Memory and Buffering
 *
-* File: <name of this file>
+* File: Mahdavi_Abbas_HW3_main.c
 *
-* Description:
+*
+* Description: Custom shell project: Implement a Linux shell. 
+Read user input, parse, and execute commands using fork() and 
+execvp(). Display child PID and return result. Support direct 
+path or path expansion. Handle errors, input truncation, and 
+EOF. Variable command-line arguments. Customizable prompt.
 *
 **************************************************************/
 ```
