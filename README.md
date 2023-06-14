@@ -10,7 +10,7 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 * Name: Abbas Mahdavi   
 * Student ID: 9182***420
 * GitHub UserID: AbbasMahdavi021
-* Project: Assignment 3 – Stucture in Memory and Buffering
+* Project: Assignment 3 – Simple Shell
 *
 * File: Mahdavi_Abbas_HW3_main.c
 *
